@@ -1,0 +1,11 @@
+//
+//  Debug.xcconfig
+//  TMDb
+//
+//  Created by Jahanvi Vyas on 29/01/2020.
+//  Copyright © 2020 Jahanvi Vyas. All rights reserved.
+//
+
+BASE_URL = https:\/\/api.themoviedb.org
+IMAGE_BASE_URL = http:\/\/image.tmdb.org/
+API_KEY = d2811fe92ba5bae1a5a87f86f8b584ff

@@ -1,0 +1,17 @@
+/* 
+  Localizable.strings
+  TMDb
+
+  Created by Jahanvi Vyas on 29/01/2020.
+  Copyright © 2020 Jahanvi Vyas. All rights reserved.
+*/
+
+// View Controller
+"tmdb_title" = "Popular Movies";
+
+// Errors
+"network_error_message" = "Please check your network connection and try again.";
+"network_timeout_error_message" = "Your request has timed out. Please check your network connection";
+"other_network_error_message" = "There could be some problem with your network connection.";
+"server_error_message" = "We're sorry, we're having some technical difficulties at the moment. Please try again later.";
+"unknown_error_message" = "We're sorry, we're having some unknown difficulties at the moment. Please try again later.";
